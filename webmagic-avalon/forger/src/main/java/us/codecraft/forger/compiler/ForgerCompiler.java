@@ -6,4 +6,5 @@ package us.codecraft.forger.compiler;
 public interface ForgerCompiler {
 
     public Class compile(String sourceCode);
+
 }
